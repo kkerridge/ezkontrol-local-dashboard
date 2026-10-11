@@ -8,6 +8,8 @@ No internet connection, account, server or cloud service is required. The
 ESP32 creates its own Wi-Fi network and serves the complete dashboard from its
 flash memory.
 
+![EZkontrol twin-motor dashboard showing live port and starboard motor data](docs/dashboard-preview.png)
+
 ## Features
 
 - Dual Golden Motor EZkontrol controller display
